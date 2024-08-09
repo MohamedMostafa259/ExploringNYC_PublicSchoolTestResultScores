@@ -2,9 +2,10 @@
 
 This project analyzes SAT test results of NYC public schools using data on average math, reading, and writing scores. It aims to identify top-performing schools, explore which boroughs have the highest variability in SAT scores, and highlight schools with exceptional math performance.
 
-![New York City schoolbus](https://images.unsplash.com/photo-1550523049-a61d0deec4a4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTAwfHx8ZW58MHx8fHx8)
+![New York City schools](https://cdn-images-1.medium.com/max/1000/0*JLxWG493C-Pii2jy)
 
-Photo by [Jannis Lucas](https://unsplash.com/@jannis_lucas) on [Unsplash](https://unsplash.com)_
+Photo by [Zoshua Colah](https://unsplash.com/@zoshuacolah?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com).
+<br>
 
 ## Motivation
 
